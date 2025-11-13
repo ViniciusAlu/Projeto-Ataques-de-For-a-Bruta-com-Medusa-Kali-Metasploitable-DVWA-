@@ -3,7 +3,7 @@ Aviso legal &amp; ético: todos os testes descritos aqui foram concebidos para e
 
 *Resumo*:
 
-Neste projeto foi configurado um laboratório local (Kali Linux atuando como atacante e Metasploitable 2 / DVWA como alvo) para simular ataques de força bruta usando a ferramenta Medusa. O objetivo foi compreender as técnicas de brute force em diferentes serviços (FTP, formulário web e SMB), documentar comandos e evidências, e propor mitigação.
+Neste projeto foi configurado um laboratório local (Kali Linux atuando como atacante e Metasploitable 2 / DVWA como alvo) para simular ataques de força bruta usando a ferramenta Medusa. O objetivo foi compreender as técnicas de brute force em diferentes serviços (FTP, formulário web e SMB).
 
 *Topologia / IPs (exemplo do laboratório)*:
 
